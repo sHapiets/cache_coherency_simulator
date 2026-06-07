@@ -51,7 +51,7 @@ class AppbarUI extends StatelessWidget implements PreferredSizeWidget {
             ),
 
             child: Icon(
-              Icons.list_alt_rounded,
+              Icons.move_down_rounded,
               size: 20,
               color: Theme.of(context).colorScheme.surface,
             ),
